@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prequel</string>
+    <string name="tab_messages">Messages</string>
+    <string name="tab_internship">Mijn stage</string>
+    <string name="tab_about">Over mij</string>
+    <string name="tab_about_company">Over Meijer &amp; Walters</string>
+    <string name="header_description">Header image for activity.</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+        labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum.
+    </string>
+    <string name="activity_pager">Home</string>
+    <string name="activity_detail">Details</string>
+    <string name="activity_slideshow">Slideshow</string>
+    <string name="transition_list_item">image</string>
+
+    <!-- TITLES -->
+    <!-- Internship -->
+    <string name="internship_siemens">LinkedIn: Siemens</string>
+    <string name="internship_bmy">LinkedIn: Be more you</string>
+    <string name="internship_yt">LinkedIn: Young Talent</string>
+    <string name="internship_film">Animo: Bedrijfsfilm</string>
+    <string name="internship_branding">Animo: Huisstijl</string>
+    <string name="internship_mobile">Animo: Mobiele website</string>
+    <string name="internship_ftdg">Finnish Dutch Trade Guild</string>
+
+    <!-- About Walter Meijer -->
+    <string name="internship_homestyle">Huisstijl</string>
+    <string name="internship_customers">Klanten</string>
+    <string name="internship_portfolio">Portfolio</string>
+
+    <!-- About me -->
+    <string name="internship_experience">Mijn ervaring</string>
+    <string name="internship_pap">PAP</string>
+    <string name="internship_appendix">Bijlages</string>
+
+    <!-- BODY -->
+    <!-- Internship -->
+    <string name="internship_siemens_body">
+        <![CDATA[
+        <p>Siemens is een van LinkedIns success stories waar wij een campagne voor hebben ontworpen. De campagne bestaat
+            uit twee fases. Vooral voor de tweede fase heb ik een hoop gedaan. De campagne bestaat uit een landing page,
+            emails en twee infographics.
+        </p>
+
+        <p>
+            <b>Landing page</b>
+            <br></br>
+            Voor de landing page heb ik niet mee geholpen met het zoeken naar images maar ik heb ze wel veel aangepast.
+            Voornamelijk met het resizen en bewerken van de images zodat ze in de template passen. Voor desktop en
+            mobile leveren we de images apart aan, dus ik heb gezorgd dat ze overal op het juiste format zijn en dat
+            tekst goed leesbaar blijft. Ik heb voornamelijk een hoop kleine aanpassingen gedaan aan bijvoorbeeld de
+            tekst of de images.
+        </p>
+
+        <p>
+            <b>Emails</b>
+            <br></br>
+            Om de emails wat meer kleur en leven te geven hebben we besloten images uit de infographics te gebruiken. In
+            de template die we gebruiken worden de header images gescaled op mobile, dit is iets belangrijks waarmee ik
+            rekening moet houden bij het designen van de mobile header images. Voor de eerste email heb ik de afbeelding
+            gebruikt van de wereld kaart. Hierop heb ik de personen en vliegroutes zo neergezet dat ze altijd om de
+            tekst heengaan. Hetzelfde heb ik gedaan voor de tweede email met de planeten.
+        </p>
+
+        <p>Voor de emails die we voor LinkedIn maken hebben we een standaard template. In de template moet ik de code
+            aanpassen zodat de juiste tekst en plaatjes erin komen. Regelmatig kwamen er ook bepaalde problemen voor op,
+            voornamelijk, mobile. Hiervoor moest ik dan een oplossing bedenken in de HTML/CSS code. Dit is iets wat ik
+            erg leuk vond om te doen.
+        </p>
+
+
+        </br>
+        <a href="https://business.linkedin.com/talent-solutions/c/15/1/siemens-success-story-II">Bekijk de Siemens case</a>
+
+        <p>
+            <b>Voltooide werkprocessen</b>
+            <br></br>
+            Verplichte: A2.3, A2.4
+            <br></br>
+            Aanvullende: A1.3
+            <br></br>
+            Persoonlijke: P3
+        </p>
+         ]]>
+    </string>
+
+    <string name="internship_bmy_body">
+        <![CDATA[
+        <p>We hebben de campagne Be More You voor twee delen van LinkedIn gemaakt, LinkedIn Scandinavie en LinkedIn
+            Nederland. Bij de campagne voor LinkedIn Nederland is de naam veranderd in Give a litle get a lot.
+        </p>
+
+        <p>
+            <b>Be More You</b>
+            <br>
+            Voor Be More You heb ik de landing page, inMail en emails gemaakt. Bij de landingspage heb ik ook de icons
+            voor in de tekst gemaakt, dit is iets wat is erg leuk vond om te doen maar waar ik wel moeite mee had. De
+            eerste image is hoe de beelden er in de eerste instantie uitzagen, na feedback van de klant hebben we
+            besloten om ze te veranderen naar de tweede image. Voor Give a little get a lot moest ik samen met de andere
+            stagair Timo werken. We hebben de taken zo verdeeld dat hij de header images maakte en ik de icon. Ik heb
+            dit gedaan omdat dit iets is waar ik graag meer wil oefenen.
+        </p>
+
+        <p>
+            <b>Voltooide werkprocessen</b>
+            <br>
+            Verplichte: A2.3, A2.4
+            <br>
+            Aanvullende: A1.1
+            <br>
+            Persoonlijke: P2, P3
+        </p>
+        ]]>
+    </string>
+
+    <string name="internship_yt_body">
+        <![CDATA[
+        <p>Young Talent is een van de eerste campagnes waar ik aan begon met werken bij Meijer en Walters, en waar we nu
+            nog steeds aan werken. De vormgeving van de campagne hebben we meerdere keren aangepast (zie laatste image)
+            om meer bij het LinkedIns playbook van Young Talent te passen.
+        </p>
+
+        <p>De beelden die we gebruiken zijn eigenlijk vanaf het begin hetzelfde gebleven, met uitzondering van 1 beeld.
+            De campagne bestaat uit drie delen: Wall of Fame, Your job Their opportunity en Student Recruitment 2.0.
+            Elke deel heeft z’n eigen image. Ik heb gezorgd dat overal de goeie image in komt (in de ads, landing page,
+            inmail en emails) en dat ze bij het elkaar/het playbook passen.
+        </p>
+
+        <p>
+            <b>Voltooide werkprocessen</b>
+            <br>
+            Verplichte: A2.3, A2.4
+            <br>
+            Aanvullende: A1.3
+            <br>
+            Persoonlijke: P3
+        </p>
+        ]]>
+    </string>
+
+    <string name="internship_film_body">
+        <![CDATA[
+        <p>Om de nieuwe huisstijl te introduceren van Animo hebben we voor hun een bedrijfsfilm gemaakt. Ik ben samen
+            met Eva en cameraman Jack naar Assen gegaan om bij Animo te filmen.
+        </p>
+
+        <p>Mijn taak was voornamelijk het regelen van het licht. Wij hadden twee lampen bij ons en Jack heeft mij een
+            hoop geleerd over licht. Zoals de verschillen in natuurlijk en niet natuurlijk licht en de sterkte van het
+            licht. Ook heb ik geleerd om goed te kijken waar het licht vandaan komt voordat je de positie van de lampen
+            bepaald. Dit is iets wat ik ook in bijvoorbeeld het photoshoppen van beelden kan gebruiken om het er zo
+            realistisch mogelijk uit te laten zien.
+        </p>
+
+        <p>
+            <b>Voltooide werkprocessen</b>
+            <br>
+            Verplichte: -
+            <br>
+            Aanvullende: -
+            <br>
+            Persoonlijke: -
+        </p>
+        ]]>
+    </string>
+
+    <string name="internship_branding_body">
+        <![CDATA[
+        <p>Voor Animo zijn we bezig met het ontwikkelen van een nieuwe huisstijl. Dit is een project wat al lopend was
+            voor ik Meijer en Walters begon en nu nog steeds bezig is. Ik heb tijdens mijn stage een hoop voor Animo
+            gedaan, varierend van kleine projecten tot grotere projecten.
+        </p>
+
+        <p>
+            <b>Downloadspagina</b>
+            <br>
+            Voor de Optivend website moest een downloadspagina gemaakt worden. Hierop zijn downloads zoals de brochure
+            en fotografie te vinden. Deze site moest aansluiten bij de huidige Optivend site. Ik heb deze site ontworpen
+            en ook geprogrammeerd in HTML/CSS. Hierna heb ik de site getest en ervoor gezorgd dat de site werkt in alle
+            browsers.
+        </p>
+
+        <p>
+            <b>Give-away</b>
+            <br>
+            Voor de give-away van Animo zijn een aantal dingen die ontworpen en gerealiseerd moesten worden zoals een
+            mok, A4-map, tas en chocolatjes. Voor de mokken heb ik het DTP-werk gedaan voor de verpakking en de mokken
+            zelf. Ook ben ik naar een bedrijf gegaan voor de verpakking van de mokken, om te overleggen of de verpakking
+            juist was voor de mokken.
+        </p>
+
+        <p>
+            <b>Voltooide werkprocessen</b>
+            <br>
+            Verplichte: A2.3, A2.4
+            <br>
+            Aanvullende: A1.1
+            <br>
+            Persoonlijke: P2, P3
+        </p>
+        ]]>
+    </string>
+
+    <string name="internship_mobile_body">
+        <![CDATA[
+        <p>Voor de introductie van Animo s nieuwe koffiemachine is een website ontwikkeld
+            en voor deze website moest ook een mobiele versie gemaakt worden. Ik mocht
+            de mobiele site vanaf het begin ontwerpen en ben begonnen met schetsen. Ik heb uitgezocht hoe de navigatie
+            het beste in elkaar kan zitten en welke elementen het beste waar kunnen staan. Daarna heb ik het in
+            photoshop vormgegeven en er voor gezorgd dat de elementen overeenkomen met de desktop website.
+        </p>
+
+        <p>Ik heb hier niks aan gedaan qua code, dat is allemaal gedaan door een programmeur. Er zijn nog enkele
+            aanpassingen gedaan en de versie in de plaatjes is de uiteindelijke versie.
+        </p>
+
+        </br>
+        <a href="http://www.animo.eu/optivend/">Bekijk de Optivend website</a>
+
+        <p>
+            <b>Voltooide werkprocessen</b>
+            <br>
+            Verplichte: A1.4, A2.1
+            <br>
+            Aanvullende: A1.1, A1.2, A1.3
+            <br>
+            Persoonlijke: P1, P2, P3
+        </p>
+        ]]>
+    </string>
+
+    <string name="internship_ftdg_body">
+        <![CDATA[
+        <p>
+            <b>Banner</b>
+            <br>
+            Voor events moest er een roll-up banner gemaakt worden met alle sponsors erop. Ik heb de banner zo ontworpen
+            dat de sponsors niet te laag staan en het logo goed zichtbaar is.
+        </p>
+
+        <p>
+            <b>Visitekaartjes</b>
+            <br>
+            Er moesten voor FDTG visitekaartjes gemaakt, een persoonlijke en een algemene waar mensen hun eigen gegevens
+            op kunnen invullen. Ik heb hier voorstellen voor gemaakt en uiteindelijk gerealiseerd.
+        </p>
+
+        <p>
+            <b>Voltooide werkprocessen</b>
+            <br>
+            Verplichte: A2.3, A2.4
+            <br>
+            Aanvullende: A1.2, A1.3
+            <br>
+            Persoonlijke: P1, P2, P3
+        </p>
+        ]]>
+    </string>
+
+    <!-- About Walter Meijer -->
+    <string name="tab_about_company_body">
+        <![CDATA[
+        <p>Meijer en Walters is een communicatie bureau in Amsterdam. Het bureau is in Februari 2012 opgericht door
+            Ineke Meijer (Creative Director) en Jorg Walters (Strategy Director).
+        </p>
+
+        <p>Verder werken er op dit moment in het bedrijf:
+            Justinas Stankevicius (Junior Strategist)
+            <br>
+            Eva Huijgen (Producer)
+            <br>
+            En twee stagairs, Timo en ik.
+        </p>
+
+        <p>Bij Meijer en Walters wordt er zowel digitaal als voor print gewerkt. Het werk verschilt heel erg. Zo worden
+            er websites (landingpages) en emails voor LinkedIn ontworpen maar ook banners/visitekaartjes voor
+            bedrijven zoals Finnish Dutch Trade Guild.
+        </p>
+
+        <p>Het beginpunt is altijd de klant, daarom werken ze vanuit een inzicht en een concept. Het is belangrijk dat
+            het idee klopt en dat het tot in de puntjes verzorgd is. Op deze mannier snapt de eindgebruiker altijd
+            meteen waar het over gaat, onafhankelijk van het medium.
+        </p>
+        ]]>
+    </string>
+
+    <string name="internship_homestyle_body">
+        <![CDATA[
+        <p>Het logo van Meijer en Walters is een erg duidelijk en opvallend logo. Soms worden er ook alleen delen van
+            het logo, zoals het en-teken en M/W, gebruikt in plaats van het hele logo. De kleuren geel en zwart komen
+            overal in terug. Deze kleuren vind je op de visitekaartjes, website, buttons etc. Als ik iets voor of over
+            Meijer en Walters moet maken probeer ik deze kleuren ook altijd terug te laten komen. De boodschap is altijd
+            erg duidelijk zonder te veel onnodige effecten. Alles ziet er erg modern en strak uit en er wordt vaak ook
+            gebruikt gemaakt van opvallende kleuren. Ook komen plaatjes van de buurt of het pand zelf soms terug in de
+            vormgeving.
+        </p>
+        ]]>
+    </string>
+
+    <string name="internship_customers_body">
+        <![CDATA[
+        <p>Bij Meijer en Walters werken we voor zowel Nederlandse klanten als internationale klanten. Doordat er zoveel
+            verschillen klanten zijn is het werk erg divers wat het werk erg leuk maakt.
+
+            Een aantal van de klanten waarvoor we voor werken zijn Animo, LinkedIn, MBK e-bikes en Finnish Dutch Trade
+            Guild. Behalve het design zorgen we er meestal ook voor dat het werk gedrukt wordt en bij de klant aankomt.
+        </p>
+
+
+        <p>
+            <b>LinkedIn</b>
+            <br>
+            Meijer en Walters werkt voor LinkedIn in verschillende landen; LinkedIn BeNeLux (Belgie, Nederland,
+            Luxenburg), LinkedIn UK, Linkedin Middle east, LinkedIn Scandinavie en LinkedIn DACH. Hiervoor worden
+            campagnes ontwikkeld, er worden dingen zoals landing pages, emails en infographica bedacht en ontworpen.
+        </p>
+
+
+        <p>
+            <b>Animo</b>
+            <br>
+            Animo is een koffiebedrijf uit Assen met veel internationale klanten. Ze verkopen koffie/theemachines en
+            andere apparatuur voor de horeca. Voor Animo is een nieuwe huisstijl ontwikkeld, dit is een groot project
+            waar ik ook veel aan heb gewerkt. Ook is er veel gemaakt voor de introductie van de nieuwe Optivend (nieuwe
+            koffiemachine) .
+        </p>
+
+
+        <p>
+            <b>MBK e-bikes</b>
+            <br>
+            MBK e-bikes is onderdeel van Yamaha. Hier is een hoop voor gedaan voordat ik aan mijn stage begon. Ik heb
+            hiervoor wat kleine dingetjes gedaan zoals het maken van een social media pakketje en aanpassingen op hun
+            website.
+        </p>
+        ]]>
+    </string>
+
+    <!-- About me -->
+    <string name="internship_experience_body">
+        <![CDATA[
+        <p>Ik heb een erg leuke tijd gehad bij Meijer en Walters waarin ik een hoop geleerd heb. Het belangrijkste vond
+            ik dat ik serieus werd genomen en dat me prettig voelde. Ik ben ook erg blij dat ik mijn tweede stage hier
+            kan lopen.
+        </p>
+
+
+        <p>
+        <b>Beter leren plannen </b>
+        <br>
+        Er zijn een aantal projecten waarbij ik hoop vrijheid een verantwoordelijk heb gekregen. Hier hoort ook bij dat
+        ik mijn tijd goed indeel. Ik heb vaak opdrachten gekregen met een deadline waarbij ik zelf kon kijken wat ik
+        wanneer ik wat doe. In het begin ging dit soms moeizaam, ook met het inschatten van de tijd, maar het lukt me
+        steeds beter.
+
+
+        <p>
+            <b>Communiceren in verschillende talen</b>
+            <br>
+            Omdat we eigenlijk altijd engels praten was het in het begin wel even wennen. Mijn engels is redelijk goed
+            maar ik was niet gewend het dagelijks te praten. Ik heb gemerkt dat mijn engels erg vooruit gaat door het
+            dagelijks spreken van engels.
+        </p>
+
+
+        <p>
+            <b>Zeker zijn van mijn eigen weg</b>
+            <br>
+            Voor ik begon met mijn stage had ik veel moeite met mijn eigen werk. Ik vond het vaak erg moeilijk om achter
+            mijn werk te stage en mijn keuzes te beargumenteren. Omdat ik hier elke keer mijn eigen keuzes moest
+            beargumenteren heb ik geleerd om goed na te denken over wat ik waarom doen. Ik heb ook het gevoel dat mijn
+            werk gewaardeerd wordt waardoor ik zeker ben geworden over de kwaliteit van mij werk.
+        </p>
+
+        <p>
+            <b>Meer leren over mobile design</b>
+            <br>
+            Er zijn een aantal projecten waarbij ik voor mobile heb moeten werken. Dit is iets wat ik erg leuk vind en
+            graag meer over wil leren. Ik hoop dat ik in mijn tweede stage hier ook meer op kan focussen.
+        </p>
+        ]]>
+    </string>
+
+    <string name="internship_appendix_body">
+        <![CDATA[
+        <p>
+            <b>PAP</b>
+            <br>
+            Zie map PAP.
+        </p>
+
+        <p>
+            <b>GVO opdrachten</b>
+            <br>
+            Zie map GVO.
+        </p>
+
+        <p>
+            <b>Urenverantwoording</b>
+            <br>
+            Zie map Urenverantwoording.
+        </p>
+        ]]>
+    </string>
+
+
+</resources>
